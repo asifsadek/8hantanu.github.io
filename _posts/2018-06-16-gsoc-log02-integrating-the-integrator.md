@@ -1,5 +1,5 @@
 ---
-title: "GSoC'18 log#01: Integrating the Integrator"
+title: "GSoC'18 log#02: Integrating the Integrator"
 categories:
   - GSoC
 tags:
