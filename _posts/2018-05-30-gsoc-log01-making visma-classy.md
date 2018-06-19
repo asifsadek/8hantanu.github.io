@@ -1,5 +1,5 @@
 ---
-title: "Making VisMa 'classy' [GSoC'18 | VisMa | Week #01-02]"
+title: "GSoC'18 log#01: Making VisMa *classy*"
 categories:
   - GSoC
 tags:

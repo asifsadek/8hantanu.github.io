@@ -1,5 +1,5 @@
 ---
-title: "Integrating the Integrator [GSoC'18 | VisMa | Week #03-05]"
+title: "GSoC'18 log#01: Integrating the Integrator"
 categories:
   - GSoC
 tags:
