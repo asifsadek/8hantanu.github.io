@@ -1,6 +1,5 @@
 ---
 layout: home
-paginate: true
 alt_title: "Shantanu's Shallop"
 sub_title: "Exploring the ocean..."
 image: /assets/images/coverpic.jpg

@@ -12,7 +12,7 @@ last_modified_at: 2018-05-30T12:30:00+05:30
 ---
 
 
-I came across AerospaceResearch.net when browsing through GSoC organizations. It offered projects both in my field of interests and academic domain. I had to make a hard choice between DirectDemod and VisMa and I finally chose VisMa as my project for GSoC.
+I came across **AerospaceResearch.net** when browsing through GSoC organizations. It offered projects both in my field of interests and academic domain. I had to make a hard choice between **DirectDemod** and **VisMa** and I finally chose VisMa as my project for GSoC.
 
 ![visma-banner]({{ site.url }}{{ site.baseurl }}/assets/images/vismabanner.jpg){: .align-center}
 
