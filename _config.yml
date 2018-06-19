@@ -25,7 +25,7 @@ author:
   picture:
 twitter_username: 8hantanu
 github_username: 8hantanu
-logo: "/assets/images/logo.png"
+logo: "/assets/images/logo.jpg"
 search: # true, false (default)
 search_full_content: false # true, false (default)
 search_provider: # lunr (default), algolia
