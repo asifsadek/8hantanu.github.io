@@ -1,8 +1,8 @@
 ---
 layout: home
 paginate: true
-alt_title: "Shantanu's space"
-sub_title: "Just another little blog..."
+alt_title: "Shantanu's Shallop"
+sub_title: "Exploring the ocean..."
 image: /assets/images/coverpic.jpg
 introduction: |
   Hi I am Shantanu.
@@ -13,6 +13,6 @@ introduction: |
   Lorem Ipsum Dolors.
 actions:
   - label: "About Me"
-    icon: about
+    icon: github
     url: "https://github.com"
 ---
