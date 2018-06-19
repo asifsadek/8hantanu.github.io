@@ -9,10 +9,10 @@
     "summary": "",
     "location": {
       "address": "",
-      "postalCode": "",
-      "city": "",
+      "postalCode": "500078",
+      "city": "Hyderabad",
       "countryCode": "",
-      "region": ""
+      "region": "India"
     },
     "profiles": [
       {
@@ -29,16 +29,6 @@
         "network": "Twitter",
         "username": "8hantanu",
         "url": "https://twitter.com/8hantanu"
-      },
-      {
-        "network": "Facebook",
-        "username": "8hantanu",
-        "url": "https://facebook.com/8hantanu"
-      },
-      {
-        "network": "Instagram",
-        "username": "8hantanu",
-        "url": "https://instagram.com/8hantanu"
       }
     ]
   },
@@ -84,6 +74,7 @@
   "education": [
     {
       "institution": "Birla Institute of Science and Technology - Pilani, Hyderabad Campus",
+      "website": "https://thewh.ip",
       "area": "Electonics and Communications Engineering",
       "studyType": "Bachelor",
       "startDate": "1st August 2015",
@@ -96,6 +87,7 @@
     },
     {
       "institution": "Excel Junior College",
+      "website": "",
       "area": "Maths, Physics and Chemistry",
       "studyType": "Telangana State Board",
       "startDate": "1st August 2015",
@@ -108,6 +100,7 @@
     },
     {
       "institution": "Brahma Prakash DAV School",
+      "website": "",
       "area": "",
       "studyType": "Central Board of Secondry Education",
       "startDate": "1st August 2015",
