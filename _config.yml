@@ -22,10 +22,13 @@ url: "https://8hantanu.github.io"
 author:
   name: Shantanu Mishra
   twitter: 8hantanu
-  picture:
+  picture: "/assets/images/profile.jpg"
 twitter_username: 8hantanu
 github_username: 8hantanu
 logo: "/assets/images/logo.jpg"
+google_analytics: UA-121071102-1
+disqus:
+  shortname: shantanus-shallop
 search: true # true, false (default)
 search_full_content: true # true, false (default)
 search_provider: lunr # lunr (default), algolia
