@@ -663,13 +663,13 @@ sort_by: # date (default) title
 sort_order: # forward (default), reverse
 ```
 
-To create a page showing all documents in the `recipes` collection you'd create `recipes.md` in the root of your project and add this front matter:
+To create a page showing all documents in the `projects` collection you'd create `projects.md` in the root of your project and add this front matter:
 
 ```yaml
-title: Recipes
+title: Projects
 layout: collection
-permalink: /recipes/
-collection: recipes
+permalink: /projects/
+collection: projects
 ```
 
 By default, documents are shown in a list view. To change to a grid view add `entries_layout: grid` to the page's front matter. If you want to sort the collection by title add `sort_by: title`. If you want reverse sorting, add `sort_order: reverse`.

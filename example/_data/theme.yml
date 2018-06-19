@@ -31,7 +31,7 @@ google_fonts:
 
 navigation_pages:
   - posts.md
-  - recipes.md
+  - projects.md
   - about.md
   - cv.md
   - tags.md

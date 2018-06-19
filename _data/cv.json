@@ -16,14 +16,29 @@
     },
     "profiles": [
       {
+        "network": "Github",
+        "username": "8hantanu",
+        "url": "https://github.com/8hantanu"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "8hantanu",
+        "url": "https://linkedin.com/in/8hantanu"
+      },
+      {
         "network": "Twitter",
         "username": "8hantanu",
         "url": "https://twitter.com/8hantanu"
       },
       {
-        "network": "Github",
+        "network": "Facebook",
         "username": "8hantanu",
-        "url": "https://github.com/8hantanu"
+        "url": "https://facebook.com/8hantanu"
+      },
+      {
+        "network": "Instagram",
+        "username": "8hantanu",
+        "url": "https://instagram.com/8hantanu"
       }
     ]
   },
@@ -39,7 +54,7 @@
         "Concealed nipper in embrodiery.",
         "Dealt with Elastical Gomez on a daily basis."
       ]
-    }
+    },
     {
       "company": "Hindustan Aeronautics Limited",
       "position": "Summer Intern",
@@ -78,7 +93,7 @@
         "DB1101 - Perpendicular Crosstalk",
         "CS2011 - Introduction to Moisturization"
       ]
-    }
+    },
     {
       "institution": "Excel Junior College",
       "area": "Maths, Physics and Chemistry",
@@ -90,7 +105,7 @@
         "DB1101 - Perpendicular Crosstalk",
         "CS2011 - Introduction to Moisturization"
       ]
-    }
+    },
     {
       "institution": "Brahma Prakash DAV School",
       "area": "",
