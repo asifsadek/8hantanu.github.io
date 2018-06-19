@@ -1,5 +1,5 @@
 ---
-title: "[GSoC'18 | VisMa | Week #01-02] – Making VisMa 'classy'"
+title: "Making VisMa 'classy' [GSoC'18 | VisMa | Week #01-02]"
 categories:
   - GSoC
 tags:
@@ -12,9 +12,9 @@ last_modified_at: 2018-05-30T12:30:00+05:30
 ---
 
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/vismabanner.jpg){: .align-center}
-
 I came across AerospaceResearch.net when browsing through GSoC organizations. It offered projects both in my field of interests and academic domain. I had to make a hard choice between DirectDemod and VisMa and I finally chose VisMa as my project for GSoC.
+
+![visma-banner]({{ site.url }}{{ site.baseurl }}/assets/images/vismabanner.jpg){: .align-center}
 
 This is my first GSoC dev log (more to come). Here I will be logging about what I learned, what I have done and what I will do. So following is the work I have done in VisMa.
 
@@ -24,18 +24,19 @@ I used the community bonding period to fix minor errors and get more familiar wi
 
 Till now VisMa processed input equations into 'tokens' which were formatted in the form of python dictionaries. Erm?! Tokens? Check this out.
 The main aim during this two week period was to convert all the dictionaries to class-objects i.e. to follow the object-oriented style. Classes for the following function types were created:
-trigonometric
-hyperbolic
-exponential
-variable
-constant
+- trigonometric
+- hyperbolic
+- exponential
+- variable
+- constant
+
 While making these, class methods like 'differentiate' and 'inverse' were added to these function classes.
 
 While everything worked perfectly with objects, the steps animator didn't comply. The animator used JSON serializer which would use only strings/dictionary format. Although the object properties could be converted to dictionary format, it would defeat the main purpose. So I decided to use TeX to render equations. The step animator was remolded to render the equations in TeX format using matplotlib's renderer.
 
 An equation plotter was built with the help of matplotlib. The plotter supports plotting equations in one and two variables. While working on the GUI I learned a lot about PyQT4, a GUI library for python. I have updated the GUI so that the plotter and step-animator are embedded in the main window itself. Here is the new GUI in action.
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/vismademo1.gif){: .align-center}
+![visma-demo]({{ site.url }}{{ site.baseurl }}/assets/images/vismademo1.gif){: .align-center}
 
 ## What I will be doing next...
 
@@ -45,4 +46,4 @@ The next thing to do will be integrating the token IDing module. The rules of ca
 
 From now on I will be updating the log on a fortnightly basis (read on AerospaceResearch.net). The project progress can be viewed here. BTW I added a new VisMa logo.
 
-<p align="center">**VisMa, now classy and sassy !!**</p>
+<p align="center"><b>VisMa, now classy and sassy !!</b>/p>
