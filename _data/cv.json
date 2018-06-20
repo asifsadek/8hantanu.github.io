@@ -37,24 +37,24 @@
       "company": "AerospaceResearch.net",
       "position": "Open-Source Developer",
       "website": "https://AerospaceResearch.net",
-      "startDate": "2013-12-01",
-      "endDate": "",
-      "summary": "Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.",
+      "startDate": "2018-04-23",
+      "endDate": "2018-08-14",
+      "summary": "Worked on the project VisMa - a visual math solver",
       "highlights": [
-        "Concealed nipper in embrodiery.",
-        "Dealt with Elastical Gomez on a daily basis."
+        "Refactored the whole code base of VisMa to follow object oriented style.",
+        "Implemented solvers and calculus modules in VisMa."
       ]
     },
     {
-      "company": "Hindustan Aeronautics Limited",
+      "company": "Hindustan Aeronautics Limited - Aerospace Division",
       "position": "Summer Intern",
       "website": "https://thewh.ip",
-      "startDate": "2013-12-01",
-      "endDate": "",
-      "summary": "Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.",
+      "startDate": "2017-05-20",
+      "endDate": "2017-07-15",
+      "summary": "Had the great opportunity to learn while working on the electronic control systems of the tanks which are used in GSLV- Geosynchronous Satellite Launch Vehicle Mk II. Made a project report on the potential of harnessing solar enerfy at HAL. The report expands on the various solar technologies available and how to integrate and optimize them to power machinery and facilities in HAL.",
       "highlights": [
-        "Concealed nipper in embrodiery.",
-        "Dealt with Elastical Gomez on a daily basis."
+        "Collaborated with the team working on the electronic systems of L-40 strap-on boosters of GSLV",
+        "Completed the project on The Potential of Harnessing Solar Energy in HAL"
       ]
     }
   ],
@@ -73,7 +73,7 @@
   ],
   "education": [
     {
-      "institution": "Birla Institute of Science and Technology - Pilani, Hyderabad Campus",
+      "institution": "Birla Institute of Science and Technology - Pilani",
       "website": "https://thewh.ip",
       "area": "Electonics and Communications Engineering",
       "studyType": "Bachelor",
