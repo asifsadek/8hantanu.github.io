@@ -35,8 +35,8 @@ google_fonts:
 
 navigation_pages:
   - posts.md
-  - projects.md
-  - cv.md
   - categories.md
   - tags.md
+  - projects.md
+  - cv.md
   - about.md
