@@ -16,3 +16,4 @@ npm-debug.log*
 vendor
 Rakefile
 _site
+docs

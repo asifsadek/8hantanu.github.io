@@ -12,7 +12,7 @@ last_modified_at: 2018-06-16T12:30:00+05:30
 ---
 
 
-This is GSoC log#02 (view log#01 here). Here I will cover on what I have done in week #03-05 and a gist of what has been accomplished in Phase I coding period.
+This is GSoC log#02 (view log#01 [here](http://127.0.0.1:4000/gsoc/2018/05/26/gsoc-log01-making-visma-classy.html)). Here I will cover on what I have done in week #03-05 and a gist of what has been accomplished in Phase I coding period.
 
 ![visma-banner]({{ site.url }}{{ site.baseurl }}/assets/images/vismabanner.jpg){: .align-center}
 
@@ -55,4 +55,4 @@ Also as the number of functions are increasing, the cases to test are increasing
 
 Most of the time of phase II period will be spent on working on all kinds of solvers. Also, calculus functionalities will be enhanced and support for more types of functions will be added.
 
-Link to project source and to-do board.
+Link to [project source](https://github.com/8hantanu/VisMa "visma") and [to-do board](https://github.com/aerospaceresearch/visma/projects/1 "Project Progress").

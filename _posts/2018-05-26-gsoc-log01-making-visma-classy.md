@@ -8,15 +8,15 @@ tags:
   - opensource
   - python
   - math
-last_modified_at: 2018-05-30T12:30:00+05:30
+last_modified_at: 2018-05-26T12:30:00+05:30
 ---
 
 
-I came across **AerospaceResearch.net** when browsing through GSoC organizations. It offered projects both in my field of interests and academic domain. I had to make a hard choice between **DirectDemod** and **VisMa** and I finally chose VisMa as my project for GSoC.
+I came across [AerospaceResearch.net](https://aerospaceresearch.net) when browsing through GSoC organizations. It offered projects both in my field of interests and academic domain. I had to make a hard choice between **DirectDemod** and **VisMa** and I finally chose **VisMa** as my project for GSoC.
 
 ![visma-banner]({{ site.url }}{{ site.baseurl }}/assets/images/vismabanner.jpg){: .align-center}
 
-This is my first GSoC dev log (more to come). Here I will be logging about what I learned, what I have done and what I will do. So following is the work I have done in VisMa.
+This is my first GSoC dev log (more to come). Here I will be logging about what I learned, what I have done and what I will do. So following is the work I have done in VisMa. This log covers on what I have done in week#01-02.
 
 ## Done so far...
 
@@ -44,6 +44,6 @@ The above example is one of the test cases of the input equations. The animator 
 
 The next thing to do will be integrating the token IDing module. The rules of calculus will be based on this IDing module. The code can be optimized by converting some functions to class methods. Also, some work relating to equation solvers will be initiated.
 
-From now on I will be updating the log on a fortnightly basis (read on AerospaceResearch.net). The project progress can be viewed here. BTW I added a new VisMa logo.
+From now on I will be updating the log on a fortnightly basis (read on [AerospaceResearch.net](https://aerospaceresearch.net/?p=691)). The project progress can be viewed here. BTW I added a new VisMa logo.
 
-<p align="center"><b>VisMa, now classy and sassy !!</b>/p>
+<p align="center"><b>VisMa, now classy and sassy !!</b>

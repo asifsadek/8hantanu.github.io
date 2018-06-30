@@ -17,7 +17,7 @@ lang: en-US
 title: Shantanu's Shallop
 email:
 description:
-baseurl: # the optional subpath of your site, e.g. "/blog"
+baseurl: # the optional subpath of your site, e.g. "/blog
 url: "https://8hantanu.github.io"
 author:
   name: Shantanu Mishra
@@ -74,8 +74,6 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
-  - /docs # ignore Basically Basic sample site
-  - /example # ignore Basically Basic dev site
 
 # Collections
 collections:
