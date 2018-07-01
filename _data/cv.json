@@ -4,11 +4,10 @@
     "label": "Open-source Developer &#124; Electronics Enthusiast &#124; Math Maniac",
     "picture": "",
     "email": "8hantanu@gmail.com",
-    "phone": "",
     "website": "https://8hantanu.github.io",
-    "summary": "Baa Baa Black Sheep Have you any wool. Yes Yes sir. But no bags for you. Well that was mean, I will not feed you. Doesn't matter Baa Baa. Random stuff.",
+    "summary": "Finding patterns in chaos... creating chaos in patterns...",
     "location": {
-      "address": "",
+      "address": "BITS Pilani -Hyd campus, Shamirpet",
       "postalCode": "500078",
       "city": "Hyderabad",
       "countryCode": "",
@@ -39,16 +38,16 @@
       "website": "https://AerospaceResearch.net",
       "startDate": "2018-04-23",
       "endDate": "2018-08-14",
-      "summary": "Worked on the project VisMa - a visual math solver",
+      "summary": "Worked on the project 'visma' - a VISual MAth solver",
       "highlights": [
-        "Refactored the whole code base of VisMa to follow object oriented style.",
-        "Implemented solvers and calculus modules in VisMa."
+        "Refactored the whole code base of visma to follow object oriented style.",
+        "Implemented solvers and calculus modules in visma."
       ]
     },
     {
       "company": "Hindustan Aeronautics Limited - Aerospace Division",
       "position": "Summer Intern",
-      "website": "https://thewh.ip",
+      "website": "http://hal-india.co.in/Aerospace%20Division%20Bangalore/M__99",
       "startDate": "2017-05-20",
       "endDate": "2017-07-15",
       "summary": "Had the great opportunity to learn while working on the electronic control systems of the tanks which are used in GSLV- Geosynchronous Satellite Launch Vehicle Mk II. Made a project report on the potential of harnessing solar enerfy at HAL. The report expands on the various solar technologies available and how to integrate and optimize them to power machinery and facilities in HAL.",
@@ -58,28 +57,15 @@
       ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "Steve's Meat Market",
-      "position": "Assistant",
-      "website": "",
-      "startDate": "1995-01-01",
-      "endDate": "1997-03-20",
-      "summary": "Ground up some sort of grasshopper mash for fishing.",
-      "highlights": [
-        "Awarded a 'Helium Biscuit'"
-      ]
-    }
-  ],
   "education": [
     {
       "institution": "Birla Institute of Science and Technology - Pilani",
-      "website": "https://thewh.ip",
-      "area": "Electonics and Communications Engineering",
-      "studyType": "Bachelor",
+      "website": "http://bits-pilani.ac.in/",
+      "area": "Electonics and Communications Engineering | Mathematics",
+      "studyType": "Bachelor of Engineering (Dual with MSc)",
       "startDate": "1st August 2015",
       "endDate": "31st May 2020",
-      "gpa": "7.0",
+      "gpa": "7.05",
       "courses": [
         "DB1101 - Perpendicular Crosstalk",
         "CS2011 - Introduction to Moisturization"
@@ -87,86 +73,97 @@
     },
     {
       "institution": "Excel Junior College",
-      "website": "",
+      "website": "https://www.google.com/search?hl=en&q=Excel%20Junior%20College",
       "area": "Maths, Physics and Chemistry",
       "studyType": "Telangana State Board",
       "startDate": "1st August 2015",
       "endDate": "31st May 2020",
       "gpa": "931/1000",
-      "courses": [
-        "DB1101 - Perpendicular Crosstalk",
-        "CS2011 - Introduction to Moisturization"
-      ]
     },
     {
       "institution": "Brahma Prakash DAV School",
-      "website": "",
-      "area": "",
+      "website": "http://bpdav.edu.in/",
+      "area": "Primary Education",
       "studyType": "Central Board of Secondry Education",
       "startDate": "1st August 2015",
       "endDate": "31st May 2020",
       "gpa": "10.0",
-      "courses": [
-        "DB1101 - Perpendicular Crosstalk",
-        "CS2011 - Introduction to Moisturization"
-      ]
     }
   ],
-  "awards": [
+  "achievements": [
     {
-      "title": "Warble Pioneer Award",
-      "date": "2001-11-01",
-      "awarder": "Levi Goulet",
-      "summary": "Have you seen my turtle?"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Radio Julius",
-      "publisher": "Tanyo Lubbock",
-      "releaseDate": "2014-10-01",
-      "website": "https://en.rhy.es",
-      "summary": "Capitalize on low hanging fruit to identify a ballpark value added activity to beta test."
+      "title": "Google Summer of Code '18",
+      "date": "2018-04-23",
+      "summary": "Worked on project visma with AerospaceResearch.net"
     }
   ],
   "skills": [
     {
-      "name": "Audio Juggling",
-      "level": "Master",
+      "name": "Programming",
+      "level": "Amateur",
       "keywords": [
-        "Ointment",
-        "Voltor",
-        "Millipedes"
+        "Python",
+        "C/C++",
+        "Java"
       ]
     },
     {
-      "name": "Bruschotti",
+      "name": "Utilities",
       "level": "Satisfactory",
       "keywords": [
-        "Snow camp",
-        "Owl"
+        "Git",
+        "Linux-shell",
+        "Docker",
+        "Unit-Testing"
+      ]
+    },
+    {
+      "name": "Tools",
+      "level": "Satisfactory",
+      "keywords": [
+        "Arduino",
+        "MATLAB",
+        "LTspice",
+        "Verilog"
       ]
     }
   ],
   "languages": [
     {
-      "language": "Nonsense",
+      "language": "English",
+      "fluency": "Professional fluency"
+    },
+    {
+      "language": "Hindi",
       "fluency": "Native speaker"
+    },
+    {
+      "language": "Telugu",
+      "fluency": "Bilingual proficiency"
     }
   ],
   "interests": [
     {
-      "name": "The Information Superhighway",
+      "name": "Playing musical instruments",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
+        "Ukulele",
+        "Violin"
+      ]
+    },
+    {
+      "name": "Drawing",
+      "keywords": [
+        "Sketching",
+        "Doodling",
+        "Graphic Designing"
+      ]
+    },
+    {
+      "name": "Tweaking stuff",
+      "keywords": [
+        "Multibooting electronics",
+        "Running stuff where they are not supposed to be run"
       ]
     }
   ],
-  "references": [
-    {
-      "name": " Nannette Nananacci",
-      "reference": "It is my pleasure to recommend Dugan Nash, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
-    }
-  ]
 }

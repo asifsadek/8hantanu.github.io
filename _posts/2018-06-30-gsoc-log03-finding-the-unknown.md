@@ -36,6 +36,8 @@ While I was working on expressions, I missed a few trivial test cases. Since the
 Hence I decided to automate testing using unit-test. Since this topic was new to me, I tried using various tests available to find which was best suited for **visma**. I started using **doctest** but later moved on to **pytest** for its number of features. Writing a test through pytest is as simple as:-
 
 ```python
+from visma.utils.integers import gcd
+
 def test_gcd():  # simple test for gcd
     assert gcd([1]) == 1
     assert gcd([3, 6, 12, 24]) == 3

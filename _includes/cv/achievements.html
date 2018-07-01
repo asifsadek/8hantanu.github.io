@@ -1,11 +1,11 @@
-{% if cv.awards %}
-  <div id="awards" class="entry">
+{% if cv.achievements %}
+  <div id="achievements" class="entry">
     <header class="entry-header">
-      <h3 class="entry-title">Awards</h3>
+      <h3 class="entry-title">Achievements</h3>
     </header>
 
     <div class="entry-content">
-      {% for a in cv.awards %}
+      {% for a in cv.achievements %}
         {% if a.title %}
           <h4 class="title">{{ a.title }}</h4>
         {% endif %}
