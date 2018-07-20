@@ -1,7 +1,7 @@
 ---
 title: "GSoC'18 log#02: Integrating the Integrator"
 categories:
-  - GSoC
+  - GSoC18
 tags:
   - gsoc
   - visma
@@ -38,7 +38,6 @@ The below demo shows the newly added functionalities like factorizing polynomial
     - **Functions** - All function classes added
     - **GUI/Plotter** - Graph plotting added
     - **IO** - Input, output parsers
-    - **Transform** - Change one function type to another
     - **Calculus** - Diff and integrate
 - **Issues fixed**:
     - Refactored code to follow object class style
