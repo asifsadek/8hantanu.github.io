@@ -12,7 +12,7 @@ last_modified_at: 2018-06-16T12:30:00+05:30
 ---
 
 
-This is GSoC log#02 (view log#01 [here](http://127.0.0.1:4000/gsoc/2018/05/26/gsoc-log01-making-visma-classy.html)). Here I will cover on what I have done in week #03-05 and a gist of what has been accomplished in Phase I coding period.
+This is GSoC log#02 (view log#01 [here](https://8hantanu.github.io/gsoc/2018/05/26/gsoc-log01-making-visma-classy.html)). Here I will cover on what I have done in week #03-05 and a gist of what has been accomplished in Phase I coding period.
 
 ![visma-banner]({{ site.url }}{{ site.baseurl }}/assets/images/vismabanner.jpg){: .align-center}
 
