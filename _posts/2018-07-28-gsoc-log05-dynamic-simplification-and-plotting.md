@@ -47,11 +47,11 @@ For example:
 
 Below the _qsolver_ and _plotter_ can be seen in action.
 
-![visma-demo3]({{ site.url }}{{ site.baseurl }}/assets/images/vismademo5.gif){: .align-center}
+![visma-demo5]({{ site.url }}{{ site.baseurl }}/assets/images/vismademo5.gif){: .align-center}
 
 ## What I will be doing next...
 
-Almost all of the base work with GUI is finished. I will try to enhance the UI by adding settings menu and options to enable or disable certain UI elements. I have already added a basic option for enabling/disabling _qsolver_.
+Almost all of the basic work related to GUI is finished. I will try to enhance the UI by adding settings menu and options to enable or disable certain UI elements. A simple option for enabling/disabling _qsolver_ has been already added.
 
 In the coming days I will package **visma** for all desktop operating systems(Linux, Mac and Windows). I am looking into pyinstaller for packaging **visma** for windows. Also in the final weeks I will write docstrings and inline comments for the code, and update the github wiki.
 
