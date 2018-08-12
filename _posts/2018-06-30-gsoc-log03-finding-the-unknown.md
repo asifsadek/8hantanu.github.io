@@ -12,7 +12,7 @@ last_modified_at: 2018-05-30T12:30:00+05:30
 ---
 
 
-This is GSoC'18 log#03. Here I will cover on what I have done in week#06-07. Link to the [previous log](https://8hantanu.github.io/gsoc/2018/06/16/gsoc-log02-integrating-the-integrator.html "GSoC'18 log#02").
+This is GSoC'18 log#03. Here I will cover on what I have done in week #06-07. Link to the [previous log](https://8hantanu.github.io/gsoc18/2018/06/16/gsoc-log02-integrating-the-integrator.html "GSoC'18 log#02").
 
 ![visma-banner]({{ site.url }}{{ site.baseurl }}/assets/images/vismabanner.jpg){: .align-center}
 
@@ -57,4 +57,4 @@ Also for multi-variable linear equations, matrix modules will be created and Gau
 
 Since I have just initialized testing using pytest, there are many test cases left to be written. Tests for specifically each module will be created.
 
-Link to [project source](https://github.com/8hantanu/VisMa "visma") and [to-do board](https://github.com/aerospaceresearch/visma/projects/1 "Project Progress").
+Link to [project source](https://github.com/aerospaceresearch/visma "visma") and [to-do board](https://github.com/aerospaceresearch/visma/projects/1 "Project Progress").

@@ -73,4 +73,4 @@ GUI will be enhanced. Logger will be added and plotter will be modified to suppo
 
 ![visma-demo]({{ site.url }}{{ site.baseurl }}/assets/images/vismademo4.gif){: .align-center}
 
-Link to [project source](https://github.com/8hantanu/VisMa "visma") and [to-do board](https://github.com/aerospaceresearch/visma/projects/1 "Project Progress").
+Link to [project source](https://github.com/aerospaceresearch/visma "visma") and [to-do board](https://github.com/aerospaceresearch/visma/projects/1 "Project Progress").
