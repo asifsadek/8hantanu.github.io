@@ -53,6 +53,6 @@ Below the _qsolver_ and _plotter_ can be seen in action.
 
 Almost all of the basic work related to GUI is finished. I will try to enhance the UI by adding settings menu and options to enable or disable certain UI elements. A simple option for enabling/disabling _qsolver_ has been already added.
 
-In the coming days I will package **visma** for all desktop operating systems(Linux, Mac and Windows). I am looking into pyinstaller for packaging **visma** for windows. Also in the final weeks I will write docstrings and inline comments for the code, and update the github wiki.
+In the coming days, I will package **visma** for all desktop operating systems(Linux, Mac, and Windows). I am looking into pyinstaller for packaging **visma** for windows. Also in the final weeks, I will write docstrings and inline comments for the code, and update the github wiki.
 
 Link to [project source](https://github.com/aerospaceresearch/visma "visma") and [to-do board](https://github.com/aerospaceresearch/visma/projects/1 "Project Progress").

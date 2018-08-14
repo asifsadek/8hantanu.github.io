@@ -20,7 +20,7 @@ This is GSoC'18 log#06. Here I will cover on what I have done in week #12-13. Li
 
 Deciding which packaging style to choose was a difficult task. Though there were a number of options available for packaging python apps I couldn't find one which makes it simple for packaging it for windows. I managed to convert the source into a single executable file using **pyinstaller** but the performance was compromised.
 
-Finally I went with **PyPI**. A simple _setup.py_ was created which contained information about the dependencies to be installed. Installing **visma** is quiet simple now. To install just type:
+Finally I went with **PyPI**. A simple _setup.py_ was created which contained information about the dependencies to be installed. Installing **visma** is quite simple now. To install just type:
 
 ```bash
 $ pip3 install VISualMAth
@@ -50,7 +50,7 @@ Enter command arguments with run
     ./run clean - Clean all cache, reports and builds
 ```
 
-The _plotter_ has been divided into two separate tabs i.e. 2D plot and 3D plot. The appropriate tab will focused while plotting a given input. Also I have embedded the settings menu into the UI instead of creating a pop-up one. The settings contain options to enable/disable UI elements, change font sizes, change plot's axis ranges and mesh density etc.
+The _plotter_ has been divided into two separate tabs i.e. 2D plot and 3D plot. The appropriate tab will be focused while plotting a given input. Also I have embedded the settings menu into the UI instead of creating a pop-up one. The settings contain options to enable/disable UI elements, change font sizes, change plot's axis ranges and mesh density etc.
 
 Plotting an equation in different axis ranges helps in visualizing it in a better. The below demo justifies the previous statement.
 
@@ -61,4 +61,4 @@ Plotting an equation in different axis ranges helps in visualizing it in a bette
 
 The github wiki is yet to be updated. It will contain the user and developer manual. Some more inline comments and docstrings can be added.
 
-Though the GSoC period is coming to an end, there are still a lot of new things I want to implement in **visma**. I am thinking of making **visma** accessible from the terminal itself. I will try to implement it in a week or two. A webapp is also on my mind (will implement after adding some more useful features).
+Though the GSoC period is coming to an end, there are still a lot of new things I want to implement in **visma**. I am thinking of making **visma** accessible from the terminal itself. A webapp is also on my mind (will implement after adding some more useful features).
