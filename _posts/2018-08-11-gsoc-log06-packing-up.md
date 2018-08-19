@@ -52,7 +52,7 @@ Enter command arguments with run
 
 The _plotter_ has been divided into two separate tabs i.e. 2D plot and 3D plot. The appropriate tab will be focused while plotting a given input. Also I have embedded the settings menu into the UI instead of creating a pop-up one. The settings contain options to enable/disable UI elements, change font sizes, change plot's axis ranges and mesh density etc.
 
-Plotting an equation in different axis ranges helps in visualizing it in a better. The below demo justifies the previous statement.
+Plotting an equation in different axis ranges helps in visualizing it in a better way. The below demo justifies the previous statement.
 
 ![visma-demo6]({{ site.url }}{{ site.baseurl }}/assets/images/vismademo6.gif){: .align-center}
 

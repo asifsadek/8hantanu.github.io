@@ -13,7 +13,7 @@ last_modified_at: 2018-08-14T12:30:00+05:30
 ## Deliverables
 
 The major changes which were proposed for the project **visma** during GSoC'18:
-- changing the base code to follow object-oriented style
+- changing the codebase to follow object-oriented style
 - calculus operations like integration, differentiation (including partial diff.)
 - solving equations/inequalities and multivariable linear equations
 - improved GUI and interactive plots
@@ -23,26 +23,26 @@ The following file structure shows which modules were added/modified to the [pro
 
 ```
 visma
- |
- |__visma (contains all modules)
- |   |
- |   |__calculus (added basic diff. and integr.)
- |   |__functions (converted from dictionary to class based tokens for functions)
- |   |__gui (added elements like qsolver, plotter, settings and modified steps displayer)
- |   |__io (reorganized tokenize and added checks and parser for equations)
- |   |__matrix (added matrix operation, to be integrated with GUI)
- |   |__simplify (reorganized simplify into addsub and muldiv)
- |   |__solvers (added solver for multivariable equation)
- |   |__transform (added modules like factorization and substitution)
- |
- |__tests (unit tests for all the above modules using pytest)
- |   |
- |   |__test_calculus.py (constains test cases for calculus)
+ │
+ ├─ visma (contains all modules)
+ │   │
+ │   ├─ calculus (added basic diff. and integr.)
+ │   ├─ functions (converted from dictionary to class based tokens for functions)
+ │   ├─ gui (added elements like qsolver, plotter, settings and modified steps displayer)
+ │   ├─ io (reorganized tokenize and added checks and parser for equations)
+ │   ├─ matrix (added matrix operation, to be integrated with GUI)
+ │   ├─ simplify (reorganized simplify into addsub and muldiv)
+ │   ├─ solvers (added solver for multivariable equation)
+ │   └─ transform (added modules like factorization and substitution)
+ │
+ ├─ tests (unit tests for all the above modules using pytest)
+ │   │
+ │   ├─ test_calculus.py (constains test cases for calculus)
  :   :..
  :
- |__main.py (modified to accomodate all new GUI elements)
- |__run.sh (modified to support installing, testing and packaging visma)
- |__setup.py (for packaging visma)
+ ├─ main.py (modified to accomodate all new GUI elements)
+ ├─ run.sh (modified to support installing, testing and packaging visma)
+ └─ setup.py (for packaging visma)
 ```
 
 
