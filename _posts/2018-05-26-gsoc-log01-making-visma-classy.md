@@ -1,7 +1,7 @@
 ---
 title: "GSoC'18 log#01: Making VisMa *classy*"
 categories:
-  - GSoC18
+  - hack stack
 tags:
   - gsoc
   - visma

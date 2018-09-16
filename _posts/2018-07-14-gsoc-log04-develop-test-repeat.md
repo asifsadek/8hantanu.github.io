@@ -1,7 +1,7 @@
 ---
 title: "GSoC'18 log#04: Develop, Test, Repeat"
 categories:
-  - GSoC18
+  - hack stack
 tags:
   - gsoc
   - visma

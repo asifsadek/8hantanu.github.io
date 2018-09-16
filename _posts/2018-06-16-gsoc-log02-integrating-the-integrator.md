@@ -1,7 +1,7 @@
 ---
 title: "GSoC'18 log#02: Integrating the Integrator"
 categories:
-  - GSoC18
+  - hack stack
 tags:
   - gsoc
   - visma

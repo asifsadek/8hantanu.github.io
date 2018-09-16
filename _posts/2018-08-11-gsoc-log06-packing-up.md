@@ -1,7 +1,7 @@
 ---
 title: "GSoC'18 log#06: Packing Up"
 categories:
-  - GSoC18
+  - hack stack
 tags:
   - gsoc
   - visma

@@ -1,7 +1,7 @@
 ---
 title: "GSoC'18 log#03: Finding the Unknown"
 categories:
-  - GSoC18
+  - hack stack
 tags:
   - gsoc
   - visma

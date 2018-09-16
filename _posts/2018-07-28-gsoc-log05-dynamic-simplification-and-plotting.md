@@ -1,7 +1,7 @@
 ---
 title: "GSoC'18 log#05: Dynamic Simplification and Plotting"
 categories:
-  - GSoC18
+  - hack stack
 tags:
   - gsoc
   - visma
