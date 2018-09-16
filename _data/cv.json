@@ -65,19 +65,15 @@
       "studyType": "Bachelor of Engineering (Dual with MSc)",
       "startDate": "1st August 2015",
       "endDate": "31st May 2020",
-      "gpa": "7.05",
-      "courses": [
-        "CS F211 - Data Structures and Algos",
-        "BITS F434 - Digital Image Processing"
-      ]
+      "gpa": "7.08"
     },
     {
       "institution": "Excel Junior College",
       "website": "https://www.google.com/search?hl=en&q=Excel%20Junior%20College",
       "area": "Maths, Physics and Chemistry",
       "studyType": "Telangana State Board",
-      "startDate": "1st August 2015",
-      "endDate": "31st May 2020",
+      "startDate": "1st August 2013",
+      "endDate": "31st May 2015",
       "gpa": "931/1000",
     },
     {
@@ -85,10 +81,50 @@
       "website": "http://bpdav.edu.in/",
       "area": "Primary Education",
       "studyType": "Central Board of Secondry Education",
-      "startDate": "1st August 2015",
-      "endDate": "31st May 2020",
+      "startDate": "1st August 2012",
+      "endDate": "31st May 2013",
       "gpa": "10.0",
     }
+  ],
+  "projects": [
+    {
+      "title": "Optimization of MPI parallel code",
+      "field": "Scientific Computation",
+      "website": "",
+      "startDate": "2018-08-01",
+      "summary": "Performance optimization of MPI(Message Passing Interface) parallel code in FreeFlow",
+      "highlights": [
+          "Optimizing code for mesh-free solvers written in Fortran",
+          "Profiling the source code using PETSc to improve performance on parallel processors and detecting memory leaks using Valgrind",
+          "Improving domain decomposition using Metis to reduce interprocessor communications"
+      ]
+    },
+    {
+      "title": "visma - VISual MAth",
+      "field": "Mathematics",
+      "website": "",
+      "startDate": "2018-04-23",
+      "endDate": "2018-08-14",
+      "summary": "Math equation solver and visualizer",
+      "highlights": [
+          "Developed a math equation solver and visualizer using python with AerospaceResearch.net during Google Summer of Code '18",
+          "Modified source code to follow the object-oriented style and created modules for functions, simplifier, calculus, solver, matrix etc",
+          "Enhanced the GUI using pyqt5 and added interactive graph plots",
+          "Created unit-tests for the modules using pytest and packaged it using PyPI"
+      ]
+    },
+    {
+      "title": "Operational Feasibility of Solar Power",
+      "field": "Engineering",
+      "website": "",
+      "startDate": "2017-04-15",
+      "endDate": "2017-06-10",
+      "highlights": [
+          "Completed report on the Usage of Sustainable Renewable Resources during the summer internship at Hindustan Aeronautics Limited - Aerospace Division",
+          "The report expands on the various solar technologies available and how to integrate and optimize them to power machinery and facilities at HAL"
+      ]
+    }
+
   ],
   "achievements": [
     {
@@ -162,7 +198,8 @@
       "name": "Tweaking stuff",
       "keywords": [
         "Multibooting electronics",
-        "Running stuff where they are not supposed to run"
+        "Rooting and flashing devices",
+        "Emulating and VMs"
       ]
     }
   ],

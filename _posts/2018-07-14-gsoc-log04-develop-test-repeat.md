@@ -12,7 +12,7 @@ last_modified_at: 2018-07-14T12:30:00+05:30
 ---
 
 
-This is GSoC log#04 (view log#03 [here](https://8hantanu.github.io/gsoc18/2018/06/30/gsoc-log03-finding-the-unknown.html)). Here I will cover on what I have done in week #08-09 and a gist of what has been accomplished in Phase II coding period and what is to be done in the final coding period.
+This is GSoC log#04 (view log#03 [here]({{ site.url }}{{ site.baseurl }}/gsoc18/2018/06/30/gsoc-log03-finding-the-unknown.html)). Here I will cover on what I have done in week #08-09 and a gist of what has been accomplished in Phase II coding period and what is to be done in the final coding period.
 
 ![visma-banner]({{ site.url }}{{ site.baseurl }}/assets/images/vismabanner.jpg){: .align-center}
 

@@ -14,3 +14,5 @@ Just testing out my new website.
 <h2>Languages used in the last week</h2>
 <figure>
 <embed src="https://wakatime.com/share/@8hantanu/96a3a1dd-21db-457f-8773-5821b19520dd.svg"></figure>
+
+View my [Curriculum Vitæ]({{ site.url }}{{ site.baseurl }}/cv).

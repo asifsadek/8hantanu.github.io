@@ -12,7 +12,7 @@ last_modified_at: 2018-07-28T12:30:00+05:30
 ---
 
 
-This is GSoC'18 log#05. Here I will cover on what I have done in week #10-11. Link to the [previous log](https://8hantanu.github.io/gsoc18/2018/07/14/gsoc-log04-develop-test-repeat.html "GSoC'18 log#04"). The work during this period is mostly done in [visma/gui](https://github.com/aerospaceresearch/visma/blob/master/visma/gui).
+This is GSoC'18 log#05. Here I will cover on what I have done in week #10-11. Link to the [previous log]({{ site.url }}{{ site.baseurl }}/gsoc18/2018/07/14/gsoc-log04-develop-test-repeat.html "GSoC'18 log#04"). The work during this period is mostly done in [visma/gui](https://github.com/aerospaceresearch/visma/blob/master/visma/gui).
 
 ![visma-banner]({{ site.url }}{{ site.baseurl }}/assets/images/vismabanner.jpg){: .align-center}
 

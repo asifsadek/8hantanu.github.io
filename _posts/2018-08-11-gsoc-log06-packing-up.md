@@ -12,7 +12,7 @@ last_modified_at: 2018-08-11T12:30:00+05:30
 ---
 
 
-This is GSoC'18 log#06. Here I will cover on what I have done in week #12-13. Link to the [previous log](https://8hantanu.github.io/gsoc18/2018/07/28/gsoc-log05-dynamic-simplification-and-plotting.html "GSoC'18 log#05"). The work in these two weeks involved packaging and documenting the code.
+This is GSoC'18 log#06. Here I will cover on what I have done in week #12-13. Link to the [previous log]({{ site.url }}{{ site.baseurl }}/gsoc18/2018/07/28/gsoc-log05-dynamic-simplification-and-plotting.html "GSoC'18 log#05"). The work in these two weeks involved packaging and documenting the code.
 
 ![visma-banner]({{ site.url }}{{ site.baseurl }}/assets/images/vismabanner.jpg){: .align-center}
 

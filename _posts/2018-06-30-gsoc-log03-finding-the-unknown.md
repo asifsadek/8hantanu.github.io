@@ -12,7 +12,7 @@ last_modified_at: 2018-05-30T12:30:00+05:30
 ---
 
 
-This is GSoC'18 log#03. Here I will cover on what I have done in week #06-07. Link to the [previous log](https://8hantanu.github.io/gsoc18/2018/06/16/gsoc-log02-integrating-the-integrator.html "GSoC'18 log#02").
+This is GSoC'18 log#03. Here I will cover on what I have done in week #06-07. Link to the [previous log]({{ site.url }}{{ site.baseurl }}/gsoc18/2018/06/16/gsoc-log02-integrating-the-integrator.html "GSoC'18 log#02").
 
 ![visma-banner]({{ site.url }}{{ site.baseurl }}/assets/images/vismabanner.jpg){: .align-center}
 
