@@ -1,9 +1,6 @@
 ---
 title: Stacks
-layout: collection
-permalink: /stacks/
-collection: stacks
+layout: page
 image:
-  thumbnail: /assets/images/covers/stacks.jpg
-entries_layout: grid
+  path: /assets/images/covers/stacks.jpg
 ---

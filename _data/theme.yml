@@ -36,6 +36,8 @@ google_fonts:
 navigation_pages:
   - posts.md
   - categories.md
-  - stacks.md
   - tags.md
+  - projects.md
+  - scimoc.md
+  - stacks.md
   - about.md
