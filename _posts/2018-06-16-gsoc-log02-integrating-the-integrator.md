@@ -30,7 +30,7 @@ The differentiation.py works for all functions. The integration.py is a tough on
 The below demo shows the newly added functionalities like factorizing polynomials, differentiating and integrating expressions with respect to a variable.
 
 
-![visma-demo]({{ site.url }}{{ site.baseurl }}/assets/images/vismademo2.gif){: .align-center}
+![visma-demo]({{ site.url }}{{ site.baseurl }}/assets/images/demos/visma/demo2.gif){: .align-center}
 
 ## Phase - 1 deliverables:
 

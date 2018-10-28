@@ -47,7 +47,7 @@ For example:
 
 Below the _qsolver_ and _plotter_ can be seen in action.
 
-![visma-demo5]({{ site.url }}{{ site.baseurl }}/assets/images/vismademo5.gif){: .align-center}
+![visma-demo5]({{ site.url }}{{ site.baseurl }}/assets/images/demos/visma/demo5.gif){: .align-center}
 
 ## What I will be doing next...
 

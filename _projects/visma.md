@@ -2,7 +2,7 @@
 title: "VISualMAth - GSoC'18"
 layout: page
 image:
-  path:  /assets/images/vismacover.jpg
+  path:  /assets/images/covers/visma.jpg
   thumbnail: /assets/images/vismabanner.jpg
 last_modified_at: 2018-08-14T12:30:00+05:30
 ---
@@ -48,7 +48,7 @@ visma
 
 Below is a real quick demo of some of the features like calculus, solver, plotter etc which were implemented in visma. To experience **visma** and explore all features, go to the [install guide](https://github.com/aerospaceresearch/visma/blob/master/README.md#installation) or [code wiki](https://github.com/aerospaceresearch/visma/wiki).
 
-![visma-demo](/assets/images/vismademofinal.gif){: .align-center}
+![visma-demo](/assets/images/demos/visma/demofinal.gif){: .align-center}
 
 
 There were many new things I came across while working on this project. I learned about integrating UI elements (using **_PyQt_**), unit-testing (using **_pytest_**) and packaging python apps (using **_PyPI_**). To get a deep insight into my progress and learnings throughout the completion of the project check out the [GSoC devlogs]({{ site.url }}{{ site.baseurl }}/categories/#gsoc18) -
@@ -63,7 +63,7 @@ There were many new things I came across while working on this project. I learne
 
 ## Future work:
 
-Though the GSoC'18 period has ended there are a lot of new things which can be added to **visma**. Some of the changes and features I (others can too) intend to add in **visma** after GSoC are:
+Though the GSoC'18 period has ended there are a lot of new things which can be added to **visma**. Some of the changes and features I intend to (others can too) add in **visma** after GSoC are:
 
 - Add command line interface for visma
 - Add support for more functions
