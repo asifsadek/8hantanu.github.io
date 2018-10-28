@@ -36,7 +36,7 @@ While everything worked perfectly with objects, the steps animator didn't comply
 
 An equation plotter was built with the help of matplotlib. The plotter supports plotting equations in one and two variables. While working on the GUI I learned a lot about PyQT4, a GUI library for python. I have updated the GUI so that the plotter and step-animator are embedded in the main window itself. Here is the new GUI in action.
 
-![visma-demo]({{ site.url }}{{ site.baseurl }}/assets/images/vismademo1.gif){: .align-center}
+![visma-demo]({{ site.url }}{{ site.baseurl }}/assets/images/demos/visma/demo1.gif){: .align-center}
 
 ## What I will be doing next...
 

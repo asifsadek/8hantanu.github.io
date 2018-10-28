@@ -77,7 +77,16 @@ exclude:
 
 # Collections
 collections:
+  stacks:
+    output: true
+    permalink: /:collection/:path/
+  scimoc:
+    output: true
+    permalink: /:collection/:path/
   projects:
+    output: true
+    permalink: /:collection/:path/
+  musaic:
     output: true
     permalink: /:collection/:path/
 

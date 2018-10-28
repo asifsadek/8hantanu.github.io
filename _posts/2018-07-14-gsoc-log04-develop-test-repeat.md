@@ -71,6 +71,6 @@ Most of the time of final period will be spent on working on the missing test ca
 
 GUI will be enhanced. Logger will be added and plotter will be modified to support equations in multiple variables. Here is a sneak peek of the dynamic simplifier I am working on.
 
-![visma-demo4]({{ site.url }}{{ site.baseurl }}/assets/images/vismademo4.gif){: .align-center}
+![visma-demo4]({{ site.url }}{{ site.baseurl }}/assets/images/demos/visma/demo4.gif){: .align-center}
 
 Link to [project source](https://github.com/aerospaceresearch/visma "visma") and [to-do board](https://github.com/aerospaceresearch/visma/projects/1 "Project Progress").

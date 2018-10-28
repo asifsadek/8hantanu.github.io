@@ -54,7 +54,7 @@ The _plotter_ has been divided into two separate tabs i.e. 2D plot and 3D plot. 
 
 Plotting an equation in different axis ranges helps in visualizing it in a better way. The below demo justifies the previous statement.
 
-![visma-demo6]({{ site.url }}{{ site.baseurl }}/assets/images/vismademo6.gif){: .align-center}
+![visma-demo6]({{ site.url }}{{ site.baseurl }}/assets/images/demos/visma/demo6.gif){: .align-center}
 
 
 ## What I will be doing next...

@@ -47,7 +47,7 @@ While working on these I learned a lot about unit-tests and code-coverage. I use
 
 I fiddled a little with the stylesheets in PyQt4 and made the GUI a little cleaner. Below is the solver in action.
 
-![visma-demo3]({{ site.url }}{{ site.baseurl }}/assets/images/vismademo3.gif){: .align-center}
+![visma-demo3]({{ site.url }}{{ site.baseurl }}/assets/images/demos/visma/demo3.gif){: .align-center}
 
 ## What I will be doing next...
 
