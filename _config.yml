@@ -71,6 +71,12 @@ collections:
   musaic:
     output: true
     permalink: /:collection/:path/
+  aperture:
+    output: true
+    permalink: /:collection/:path/
+  ebauche:
+    output: true
+    permalink: /:collection/:path/
 
 # Front Matter Defaults
 defaults:
