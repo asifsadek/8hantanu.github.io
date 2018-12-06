@@ -37,6 +37,6 @@ navigation_pages:
   - posts.md
   - categories.md
   - tags.md
-  - scimoc.md
+  - collections/scimoc.md
   - stacks.md
   - about.md
